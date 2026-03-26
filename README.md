@@ -1,0 +1,1 @@
+The site features a loading screen animation, a fixed navigation bar that changes on scroll with a mobile hamburger menu, a full hero section with animated graphics and two CTAs, an animated statistics counter bar, a detailed About section highlighting WRA compliance, 8 service cards with hover effects, a 4-step process timeline, two featured project case studies
